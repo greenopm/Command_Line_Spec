@@ -1,5 +1,5 @@
-# Terminal_Spec
-Terminal tools for vibrational spectroscopy analysis
+# Command_Line_Spec
+Bash shortcuts for vibrational spectroscopy analysis in the command line
 
 
 Aim:
